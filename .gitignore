@@ -1,2 +1,7 @@
 node_modules/
-key.json
+
+# For Google Cloud
+key.json  
+
+# For OpenAI
+.env
